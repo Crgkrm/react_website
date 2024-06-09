@@ -8,14 +8,7 @@ const Footer = () => {
   return (
     <div className={styles.footer}>
       <div className={styles.footer_image}>
-        <h2>
-          Follow me on
-          <a
-            href="https//www.linkedin.com/in/ankitkarapurkar-4962bb201/"
-            target="_blank">
-            Linked In
-          </a>
-        </h2>
+      
       </div>
       <div className={`${styles.footer_content} container `}>
         <div>
